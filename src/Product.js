@@ -9,6 +9,7 @@ function Product({id, title, image, price, rating}) {
             type: 'ADD_TO_BASKET',
             item: {
                 id: id,
+                image: image,
                 title: title,
                 price: price,
                 rating: rating, //you can only the key name if the value is the same name rating: "leave out rating"

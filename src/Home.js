@@ -55,7 +55,7 @@ function Home() {
                 id= "1233465462342"
                 title= "the lean startup"
                 price={11.96}
-                rating={4}
+                rating={5}
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLDGCIreAxtmYES-b0drzc9kxKX5KwHC37Y7tNeuJIxQXCl6TOkQMiDPzxgwnq2IpBrpKtQ8ED&usqp=CAc"
             />
 
